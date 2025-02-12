@@ -1,0 +1,28 @@
+{
+  "name": "backends_tutorials",
+  "version": "1.0.0",
+  "main": "fsModule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hccgroup-hhammoud/backends.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hccgroup-hhammoud/backends/issues"
+  },
+  "homepage": "https://github.com/hccgroup-hhammoud/backends#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "lodash": "^4.17.21"
+  }
+}
