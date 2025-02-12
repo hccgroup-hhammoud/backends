@@ -3,3 +3,4 @@ const sayHi = require('./sayhi');
 //console.log(module)
 sayHi(names.hassan);
 sayHi(names.zahraa);
+require('./mind_grenade')
